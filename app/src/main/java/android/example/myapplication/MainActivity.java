@@ -2,8 +2,10 @@ package android.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.example.annotation.MyClass;
 import android.os.Bundle;
 
+@MyClass()
 public class MainActivity extends AppCompatActivity {
 
     @Override
