@@ -10,3 +10,4 @@ rootProject.name = "StudyDemo"
 include ':app'
 include ':annotation'
 include ':annotation_compile'
+include ':proxy'
