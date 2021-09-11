@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Toast;
 
 @MyClass()
-public class MainActivity extends AppCompatActivity {
+public class ProxyActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
